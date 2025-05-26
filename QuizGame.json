@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["A) Paris", "B) London", "C) Berlin", "D) Madrid"],
+    "answer": "A"
+  },
+  {
+    "question": "Who wrote 'Hamlet'?",
+    "options": ["A) Charles Dickens", "B) William Shakespeare", "C) Mark Twain", "D) Leo Tolstoy"],
+    "answer": "B"
+  },
+  {
+    "question": "What is 5 + 7?",
+    "options": ["A) 10", "B) 11", "C) 12", "D) 13"],
+    "answer": "C"
+  },
+  {
+    "question": "What is my name?",
+    "options": ["A) aastha", "B) diya", "C) priya", "D) meena"],
+    "answer": "B"
+  }
+]
